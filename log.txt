@@ -1,6 +1,6 @@
-Accuracy:  0.6713286713286714
-Precision:  0.6701754385964912
--------------------------------------------
+Accuracy:  0.6713286713286714   
+Precision:  0.6701754385964912   
+-------------------------------------------------------------
 Jon-Snow 17.596909502152542
 Tyrion-Lannister 17.5681362401036
 Jaime-Lannister 13.925499363526765
@@ -13,7 +13,7 @@ Daenerys-Targaryen 12.499217151004377
 2  Aemon-Targaryen-(Maester-Aemon)  3.682017
 3               Aerys-II-Targaryen  2.819194
 4                             Aggo  1.689337
---------------------------------------------------------------
+---------------------------------------------------------------------------
                 name name character_deaths  ... data_poor  pagerank
 0         Melisandre            Melisandre  ...         0  2.861015
 1            Quaithe               Quaithe  ...         0  0.325609
@@ -22,14 +22,14 @@ Daenerys-Targaryen 12.499217151004377
 4  Grazdan mo Ullhor     Grazdan mo Ullhor  ...         0       NaN
 
 [5 rows x 17 columns]
---------------------------------------------------------------
+-----------------------------------------------------------------------------
                                name  closeness centrality
 0                    Addam-Marbrand              0.345803
 1       Aegon-Frey-(son-of-Stevron)              0.313609
 2                 Aegon-I-Targaryen              0.361692
 3  Aegon-Targaryen-(son-of-Rhaegar)              0.342230
 4                 Aegon-V-Targaryen              0.262636
---------------------------------------------------------------
+---------------------------------------------------------------------------------
                 name name character_deaths  ...  pagerank closeness centrality
 0         Melisandre            Melisandre  ...  2.861015             0.355387
 1            Quaithe               Quaithe  ...  0.325609             0.277197
