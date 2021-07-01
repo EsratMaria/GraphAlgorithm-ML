@@ -22,4 +22,4 @@ ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorith
 
 **Neo4j is only used to see graph visualization of the dataset**
 
-**Graph algorithms are not implemented using any Neo4j library**
+**Graph algorithms are not implemented using any Neo4j library**~
