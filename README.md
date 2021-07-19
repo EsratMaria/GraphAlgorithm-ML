@@ -1,4 +1,4 @@
-# Improving Machine Learning with Graph Algorithm
+# Improving Machine Learning with Graph Algorithm  
 In this repository I try to implement few graph algorithms to improve the performance of a ML model.
 
 I used the **Game of Thrones** dataset to make the model. The Machine Learning model is made up of a simple **Random Forest**.
