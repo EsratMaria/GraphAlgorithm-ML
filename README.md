@@ -6,7 +6,7 @@ I used the **Game of Thrones** dataset to make the model. The Machine Learning m
 ## Flow
 ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorithms -> Testing Previous ML model to check for better accuracy.
 
-## Graph Algorithms
+## Graph Algorithms  
 
 * Page Rank
 * Closeness Centrality
