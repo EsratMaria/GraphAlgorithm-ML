@@ -17,7 +17,7 @@ ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorith
 * neo4j
 * pandas
 * nxneo4j
-* networkx 
+* networkx
 -------------------------
 
 **Neo4j is only used to see graph visualization of the dataset**
