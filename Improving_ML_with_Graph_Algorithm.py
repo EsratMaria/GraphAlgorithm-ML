@@ -11,6 +11,7 @@ import nxneo4j as netneo
 from neo4j import GraphDatabase
 import pandas as pd
 import networkx as nx
+import numpy as np
 import csv
 
 # my-db credentials
