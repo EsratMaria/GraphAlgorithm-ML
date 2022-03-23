@@ -13,7 +13,7 @@ ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorith
 
 ## Libraries used
 -------------------------
-* sklearn  
+* sklearn 
 * neo4j
 * pandas
 * nxneo4j
