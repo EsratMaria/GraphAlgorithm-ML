@@ -12,7 +12,7 @@ ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorith
 * Closeness Centrality
 
 ## Libraries used
--------------------------   
+-------------------------  
 * sklearn
 * neo4j
 * pandas
