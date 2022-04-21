@@ -3,7 +3,7 @@ In this repository I try to implement few graph algorithms to improve the perfor
 
 I used the **Game of Thrones** dataset to make the model. The Machine Learning model is made up of a simple **Random Forest**.
 
-## Flow 
+## Flow
 ML model with RandomForestClassifier -> Get Accuracy -> Implement Graph Algorithms -> Testing Previous ML model to check for better accuracy.
 
 ## Graph Algorithms  
